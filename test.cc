@@ -15,6 +15,5 @@ using namespace std;
 int main(int argc, char const *argv[]) {
 
    cout << "Hello Git!!!" << endl;
-   cout << "This is another line\n";
    return 0;
 }// main
