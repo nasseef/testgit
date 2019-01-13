@@ -2,7 +2,6 @@ master 1
 master 2
 master 3
 
-- [ ] one
+- [x] one
 - [ ] two
 - [ ] Three
-
