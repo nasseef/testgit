@@ -13,8 +13,6 @@ using namespace std;
 //function prototypes
 
 int main(int argc, char const *argv[]) {
-   cout << "Solution to issue #5" << endl;
-   cout << "I added a new feature" << endl;
    cout << "Hello Git!!" << endl;
    return 0;
 }// main
